@@ -1,6 +1,6 @@
 {
-  "name": "dev.kyubuns.appiconchangerunity",
-  "displayName": "AppIconChangerUnity",
+  "name": "days99.dev.appiconchangerunity",
+  "displayName": "AppIconChangerUnitySqill",
   "version": "2.2.0",
   "unity": "2020.3",
   "description": "Change the app icon dynamically in Unity (iOS only)",
